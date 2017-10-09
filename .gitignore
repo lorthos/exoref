@@ -10,3 +10,6 @@ pom.xml
 .lein-deps-sum
 .lein-failures
 .lein-plugins
+.idea/
+*.iml
+*.jpr
